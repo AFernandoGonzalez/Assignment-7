@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: rgb(38, 146, 146);
+    text-align: center;
+}
+
+h2{
+    padding-top: 10px;
+    text-align: center;
+}
+
+h3{
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.parts-title {
+    background-color: bisque;
+}
+
+.main-container{
+    max-width: 100%;
+    display: grid;
+    justify-content: center;
+}
